@@ -3,4 +3,4 @@
 Game of finding a pair of cards using your memory
 
 
-<img width="475" height="858" alt="image" src="https://github.com/user-attachments/assets/24468685-74ce-4957-933e-268ed0142c9f" />
+<img width="1497" height="932" alt="image" src="https://github.com/user-attachments/assets/69dc5632-b4cb-4d30-b733-14b8fda6a69f" />
