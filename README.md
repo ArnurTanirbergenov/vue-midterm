@@ -1,5 +1,6 @@
-# Vue 3 + Vite
+# Memory game
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Game of finding a pair of cards using your memory
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+<img width="475" height="858" alt="image" src="https://github.com/user-attachments/assets/24468685-74ce-4957-933e-268ed0142c9f" />
